@@ -24,10 +24,12 @@ namespace OdeToFood
                             , IHostingEnvironment env
                             , IGreeter gretter)
         {
-            if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-            }
+            // if (env.IsDevelopment())
+            // {
+            //     app.UseDeveloperExceptionPage();
+            // }
+
+            app.UseWelcomePage();
 
             app.Run(async (context) =>
             {
