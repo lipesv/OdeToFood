@@ -11500,28 +11500,30 @@
     ]
   },
   "packageFolders": {
-    "/home/linuxlite/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\fellipe.vieira\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/linuxlite/Projects/OdeToFood/OdeToFood/OdeToFood.csproj",
+      "projectUniqueName": "C:\\Projetos\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "/home/linuxlite/Projects/OdeToFood/OdeToFood/OdeToFood.csproj",
-      "packagesPath": "/home/linuxlite/.nuget/packages/",
-      "outputPath": "/home/linuxlite/Projects/OdeToFood/OdeToFood/obj/",
+      "projectPath": "C:\\Projetos\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "packagesPath": "C:\\Users\\fellipe.vieira\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\OdeToFood\\OdeToFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/linuxlite/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\fellipe.vieira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
