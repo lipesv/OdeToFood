@@ -1,6 +1,8 @@
-﻿namespace OdeToFood.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace OdeToFood.Controllers
 {
-    public class HomeController
+    public class HomeController : Controller
     {
         public string Index()
         {

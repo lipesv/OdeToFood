@@ -25,3 +25,4 @@ C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.c
 C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cache
 C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
