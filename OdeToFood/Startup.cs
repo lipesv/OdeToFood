@@ -26,17 +26,18 @@ namespace OdeToFood
                             , IGreeter gretter
                             , ILogger<Startup> logger)
         {
-            // if (env.IsDevelopment())
-            // {
-            //     app.UseDeveloperExceptionPage();
-            // }
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+            
+            //app.UseStaticFiles();
+            //app.UseMvcWithDefaultRoute();
 
             app.Run(async (context) =>
             {
-                throw new Exception("error!");
-                
                 var greeting = gretter.GetMessageOfTheDay();
-                await context.Response.WriteAsync(greeting);
+                await context.Response.WriteAsync($"{greeting} : {env.EnvironmentName}");
             });
         }
     }
