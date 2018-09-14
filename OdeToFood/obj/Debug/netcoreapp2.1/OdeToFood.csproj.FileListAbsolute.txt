@@ -12,3 +12,16 @@
 /home/linuxlite/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp2.1/OdeToFood.RazorTargetAssemblyInfo.cache
 /home/linuxlite/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp2.1/OdeToFood.dll
 /home/linuxlite/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp2.1/OdeToFood.pdb
+C:\Projetos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.deps.json
+C:\Projetos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.json
+C:\Projetos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.dev.json
+C:\Projetos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Projetos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
+C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
+C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
+C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
+C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cache
+C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Projetos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
